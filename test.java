@@ -18,6 +18,6 @@ public class test {
 		System.out.println("HelloWorld");
 	}
 	public String test() {
-		return "test";	
+		return "testy";	
 		}
 }
