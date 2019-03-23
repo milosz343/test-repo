@@ -15,7 +15,11 @@
 
 public class test {
 	public static void main(String[]args) {
+<<<<<<< HEAD
 		System.out.println("Katastrofa");
+=======
+		System.out.println("dynamit");
+>>>>>>> test
 	}
 	public String test() {
 		return "testy";	
